@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import frappe
 from erpnext import get_region
-from helpdesk.api import doc
 from pyqrcode import create as qr_create
 import io
 import os
